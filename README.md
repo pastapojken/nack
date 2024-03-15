@@ -5,11 +5,13 @@ A ISO-friendly, 13x4 keyboard. It has hardware support for basically all the bel
 You like my work? Feel free to donate :)  
 [<img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" alt="donation" width="150"/>](https://www.paypal.com/donate?hosted_button_id=YEAQ4WGKJKYQQ)
 
-![nack_rgb](screenshots/Nack_rgb.gif "nack with full RGB")
+![nack_rgb](nack_v1/screenshots/Nack_rgb.gif "nack with full RGB")
 
-![nack_PCB](screenshots/Nack.jpg "nack PCB")
+![nack_PCB_front](nack_v2/screenshots/nack_front.png "nack PCB (front)")
 
-![nack_front](screenshots/Nack_front.jpg "nack front")
+![nack_PCB_back](nack_v2/screenshots/nack_back.png "nack PCB (back)")
 
-![nack_back](screenshots/Nack_back.jpg "nack back")
+![nack_case_front](nack_v2/screenshots/nack_case_top_pcb.png "nack case front")
+
+![nack_case_back](nack_v2/screenshots/nack_case_bot.png "nack case back")
 
